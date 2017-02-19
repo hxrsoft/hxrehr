@@ -12,8 +12,7 @@
      <key>kind</key>
      <string>software-package</string>
      <key>url</key>
-    
-     <string>http://119.29.153.220/hxyl/qjhcm.ipa</string>
+     <string>http://119.29.153.220/hxyl/QJHCM.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -21,7 +20,6 @@
      <key>needs-shine</key>
      <true/>
      <key>url</key>
-     
      <string>http://119.29.153.220/hxyl/img/loginbg4.jpeg</string>
     </dict>
     <dict>
@@ -30,7 +28,6 @@
      <key>needs-shine</key>
      <true/>
      <key>url</key>
-     
      <string>http://119.29.153.220/hxyl/img/logo22.png</string>
     </dict>
    </array>
@@ -45,7 +42,6 @@
     <key>kind</key>
     <string>software</string>
     <key>title</key>
-    
     <string>QJHCM App</string>
    </dict>
   </dict>
