@@ -46,6 +46,9 @@
     <key>title</key>
     <string>QJHCM App</string>
      
+     <key>NSLocationUsageDescription</key> 
+     <string>App需要您的同意,才能访问位置</string> 
+     
    </dict>
   </dict>
  </array>
