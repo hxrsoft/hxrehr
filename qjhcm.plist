@@ -14,7 +14,7 @@
      <key>kind</key>
      <string>software-package</string>
      <key>url</key>
-     <string>http://112.74.170.114:15080/hxyl/QJHCM.ipa</string>
+     <string>http://218.65.236.14:8090/ehrmobile/QJHCM.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -22,7 +22,7 @@
      <key>needs-shine</key>
      <true/>
      <key>url</key>
-     <string>http://112.74.170.114:15080/hxyl/img/loginbg4.jpg</string>
+     <string>http://218.65.236.14:8090/ehrmobile/icon.png</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -30,14 +30,14 @@
      <key>needs-shine</key>
      <true/>
      <key>url</key>
-     <string>http://112.74.170.114:15080/hxyl/img/logo22.png</string>
+     <string>http://218.65.236.14:8090/ehrmobile/icon.png</string>
     </dict>
    </array>
    <key>metadata</key>
    <dict>
     <key>bundle-identifier</key>
     
-    <string>com.hxr.qjhcm</string>
+    <string>com.hx.qjhcm</string>
     <key>bundle-version</key>
    
     <string>1.0.0</string>
